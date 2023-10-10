@@ -1,4 +1,3 @@
-copilot, help me write this readme. use the source files found in this folder to help you.
 # Employee Classes
 
 ## Employee
